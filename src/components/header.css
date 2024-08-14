@@ -1,0 +1,19 @@
+#list1{
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding: 5%;
+    color: white;
+}
+li{
+    margin-right: 25%;
+    font-weight: 700;
+}
+header{
+    background-color: #282c34;
+    width: 100%;
+    position: sticky;
+    /* padding: 0%; */
+    margin: 0%;
+}
