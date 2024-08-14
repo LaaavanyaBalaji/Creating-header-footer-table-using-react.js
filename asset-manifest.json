@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Creating-header-footer-table-using-react.js.git/static/css/main.98095688.css",
+    "main.js": "/Creating-header-footer-table-using-react.js.git/static/js/main.ce06bef1.js",
+    "index.html": "/Creating-header-footer-table-using-react.js.git/index.html",
+    "main.98095688.css.map": "/Creating-header-footer-table-using-react.js.git/static/css/main.98095688.css.map",
+    "main.ce06bef1.js.map": "/Creating-header-footer-table-using-react.js.git/static/js/main.ce06bef1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98095688.css",
+    "static/js/main.ce06bef1.js"
+  ]
+}
